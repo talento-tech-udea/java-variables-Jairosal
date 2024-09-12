@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/java-variables-Jairosal-master/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-variables-Jairosal-master/src/main/resources" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+>>>>>>> 964f8e15af2a33c04e5833f44c728752beff3f90
   </component>
 </project>
